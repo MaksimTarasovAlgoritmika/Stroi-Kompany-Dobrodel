@@ -10,13 +10,29 @@ header h1{
     color: olive;
     margin-right: 400px;
 
+
 }
-img {
-    
-    
-    
-    
+ header img{
+    width: px;
+    height: px;
+
+
+}   
+   
+
+
+ main img{
+    width: 350px;
+    height: 500px;
+
+
+
 }
+    
+    
+    
+    
+
 main p {
     font-size: 25px;
     color: black;
@@ -35,5 +51,9 @@ nav h1 {
     
     
 }
+
+
+
+
 
 
