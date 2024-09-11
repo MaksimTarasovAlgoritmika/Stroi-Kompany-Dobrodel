@@ -1,33 +1,46 @@
 body {
     font-family: sans-serif;
-    background-image: url('https://кадастр44.рф/images/stroitelstvo-zdanii-i-sooruze-399.jpg');
-    
-   }
- nav {
-    background-color: orange;
-    padding: 1px;
-    border-radius: 50px;
-    text-align: center;
-    text-decoration: none;
-    
-
-    
+    background-color:(white);
 }
 a {
    font-size: 25px;
    text-decoration: none; 
 }
+header h1{
+    color: olive;
+    margin-right: 400px;
 
-header img  {
-    width: 50%;
-    height: 110px;
-    margin-left: 25%;
-   }
-    
- main img {
+
+}
+ header img{
+    width: px;
+    height: px;
+
+
+}   
+   
+
+
+ main img{
     width: 300px;
     height: 300px;
-}   
+
+
+
+}
+    
+    
+h3 img  {
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+    transform: rotate(90deg);
+}  
+
+   
+
+
+
     
 
 main p {
@@ -35,35 +48,22 @@ main p {
     color: black;
 }
 
-h1 img {
-    width: 480px;
-    height: 480px;
-}
-.background {
-    background-color: white;
-    width: 50%;
-    margin-left: 25%;
-    border-radius: 30px;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-footer {
-    text-align: center;
-    font-size: 25px;
-    background-color: snow;
+    
+
+header {
+    ;
+    padding: 1px;
     border-radius: 50px;
+
+}
+nav h1 {
+    font-size: 30px;
+    
     
 }
-nav a {
-    color: black;
-}
 
 
 
 
-
-
-
-    
 
 
