@@ -33,6 +33,7 @@ header img  {
 main p {
     font-size: 25px;
     color: black;
+    text-align: justify;
 }
 
 h1 img {
@@ -59,9 +60,13 @@ nav a {
 }
 
 
+h1 {
+    text-align: center;
+}
 
 
-
-
+main h2 {
+    text-align: center;
+}
 
     
